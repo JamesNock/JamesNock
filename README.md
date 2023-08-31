@@ -20,4 +20,13 @@ I'm currently a hands-on technical lead at [Dawson Andrews](https://www.dawsonan
 In my spare time I've started playing with SvelteKit (it's very nice!) and other PHP-based bits and bobs.
 
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript       7 hrs 13 mins   ███████▒░░░░░░░░░░░░░░░░░   29.50 %
+Svelte           6 hrs 26 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.29 %
+Other            4 hrs 57 mins   █████░░░░░░░░░░░░░░░░░░░░   20.22 %
+Twig             3 hrs 17 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 %
+PHP              21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+```
+
 <!--END_SECTION:waka-->
