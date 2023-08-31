@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+At heart I'm a full-stack LAMP developer who has been writing OO PHP code for well over a decade. However, I am using JavaScript and/or JS frameworks every day too.
 
-I'm currently a hands-on technical lead at [Dawson Andrews](https://www.dawsonandrews.com/) working predominantly with JavaScript, React and CraftCMS.
+I'm currently a hands-on technical lead at [Dawson Andrews](https://www.dawsonandrews.com/) working predominantly with JavaScript, React and CraftCMS, with a sprinkling of Vue, and Alpine. Tailwind is my go-to for CSS nowadays (I've been converted, aaaaaaargh!).
 
-In my spare time I've started playing with SvelteKit (it's very nice!) and other PHP-based bits and bobs.
+In my spare time I've started playing with SvelteKit (it's very, very, nice!).
 
 <!--START_SECTION:waka-->
 
