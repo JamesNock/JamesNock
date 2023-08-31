@@ -16,7 +16,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           SECTION_NAME: waka
-          CODE_LANG: php, javascript
+          CODE_LANG: php
           TIME_RANGE: all_time 
           LANG_COUNT: 50
           SHOW_TIME: true
