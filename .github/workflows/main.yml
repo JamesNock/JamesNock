@@ -20,3 +20,4 @@ jobs:
           LANG_COUNT: 50
           SHOW_TIME: true
           SHOW_TOTAL: true
+          STOP_AT_OTHER: true
