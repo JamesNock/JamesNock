@@ -22,7 +22,7 @@ In my spare time I've started playing with SvelteKit (it's very, very, nice!).
 
 <!--START_SECTION:waka-->
 
-```php
+```txt
 From: 13 April 2023 - To: 30 August 2023
 
 Total Time: 336 hrs 36 mins
