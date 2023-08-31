@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently a hands-on technical lead at [Dawson Andrews](https://www.dawsonandrews.com/) working predominantly with JavaScript, React and CraftCMS.
+
+In my spare time I've started playing with SvelteKit (it's very nice!) and other PHP-based bits and bobs.
+
+<figure><embed src="https://wakatime.com/share/@7f1a8850-0b9e-44f1-870e-6ed6e8fd6f3b/0d6856bb-e449-4586-be4b-4f49eeafd7ee.svg"></embed></figure>
+
+<figure><embed src="https://wakatime.com/share/@7f1a8850-0b9e-44f1-870e-6ed6e8fd6f3b/b2286a00-491e-450b-94dc-16b6f07da3a8.svg"></embed></figure>
+
