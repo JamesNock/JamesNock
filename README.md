@@ -19,5 +19,4 @@ I'm currently a hands-on technical lead at [Dawson Andrews](https://www.dawsonan
 
 In my spare time I've started playing with SvelteKit (it's very nice!) and other PHP-based bits and bobs.
 
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
-
+<!--START_SECTION:waka--> <!--END_SECTION:waka-->
