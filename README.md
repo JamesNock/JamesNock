@@ -24,7 +24,7 @@ In my spare time I've started playing with SvelteKit (it's very nice!) and other
 ```php, javascript
 From: 13 April 2023 - To: 30 August 2023
 
-Total Time: 150 hrs 23 mins
+Total Time: 336 hrs 36 mins
 
 Other                 186 hrs 12 mins █████████████▓░░░░░░░░░░░   55.32 %
 JavaScript            33 hrs 52 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 %
