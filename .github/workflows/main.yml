@@ -1,4 +1,4 @@
-name: Work Stats Readme
+name: Wakatime Stats Readme update
 
 on:
   workflow_dispatch:
