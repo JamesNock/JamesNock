@@ -23,13 +23,13 @@ In my spare time I've started playing with SvelteKit (it's very, very, nice!).
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2023 - To: 08 September 2023
+From: 13 April 2023 - To: 09 September 2023
 
 Total Time: 456 hrs 40 mins
 
 Meetings              271 hrs 14 mins ███████████████░░░░░░░░░░   59.43 %
 JavaScript            36 hrs 1 min    ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
-PHP                   32 hrs 37 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
+PHP                   32 hrs 38 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
 Svelte                21 hrs 48 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
 TypeScript            18 hrs 59 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
 Twig                  15 hrs 27 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
