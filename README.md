@@ -23,21 +23,21 @@ In my spare time I've started playing with SvelteKit (it's very, very, nice!).
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2023 - To: 27 September 2023
+From: 13 April 2023 - To: 28 September 2023
 
-Total Time: 501 hrs 35 mins
+Total Time: 504 hrs 14 mins
 
-Meetings              271 hrs 14 mins █████████████▓░░░░░░░░░░░   54.10 %
-JavaScript            37 hrs 55 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
-PHP                   34 hrs 4 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
-Other                 33 hrs 37 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
-TypeScript            26 hrs 27 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
-Svelte                25 hrs 6 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
-Twig                  16 hrs 5 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
-Python                8 hrs 34 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
-Log                   7 hrs 36 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Meetings              271 hrs 14 mins █████████████▒░░░░░░░░░░░   53.82 %
+JavaScript            37 hrs 55 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
+Other                 34 hrs 19 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
+PHP                   34 hrs 4 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
+TypeScript            28 hrs 24 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+Svelte                25 hrs 6 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
+Twig                  16 hrs 5 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+Python                8 hrs 34 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+Log                   7 hrs 36 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
 textmate              6 hrs 20 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-Vue.js                5 hrs 44 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+Vue.js                5 hrs 44 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 JSON                  4 hrs 57 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 Text                  4 hrs 6 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 Bash                  3 hrs 24 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
