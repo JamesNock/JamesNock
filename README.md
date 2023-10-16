@@ -23,22 +23,22 @@ In my spare time I've started playing with SvelteKit (it's very, very, nice!).
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2023 - To: 14 October 2023
+From: 13 April 2023 - To: 15 October 2023
 
-Total Time: 545 hrs 9 mins
+Total Time: 545 hrs 34 mins
 
-Meetings                  271 hrs 14 mins ████████████▒░░░░░░░░░░░░   49.78 %
+Meetings                  271 hrs 14 mins ████████████▒░░░░░░░░░░░░   49.74 %
 Other                     54 hrs 46 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
 PHP                       42 hrs 14 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
 JavaScript                38 hrs 22 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
-TypeScript                31 hrs 32 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
-Svelte                    25 hrs 6 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+TypeScript                31 hrs 32 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
+Svelte                    25 hrs 15 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
 Twig                      17 hrs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
 Python                    8 hrs 37 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 Log                       7 hrs 44 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Blade Template            6 hrs 26 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 textmate                  6 hrs 20 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-Blade Template            6 hrs 11 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-Vue.js                    5 hrs 45 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Vue.js                    5 hrs 45 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 JSON                      5 hrs 20 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 Text                      4 hrs 7 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 Bash                      3 hrs 26 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
