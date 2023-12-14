@@ -23,24 +23,24 @@ In my spare time I've started playing with SvelteKit (it's very, very, nice!).
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2023 - To: 12 December 2023
+From: 13 April 2023 - To: 13 December 2023
 
-Total Time: 685 hrs 50 mins
+Total Time: 688 hrs 5 mins
 
-Meetings                  271 hrs 14 mins ██████████░░░░░░░░░░░░░░░   39.56 %
-Other                     125 hrs 26 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.30 %
-TypeScript                54 hrs 22 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
-PHP                       53 hrs 13 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
-JavaScript                41 hrs 31 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
-Twig                      34 hrs 42 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
-Svelte                    27 hrs 32 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
-Log                       9 hrs 38 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-Python                    8 hrs 37 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Meetings                  271 hrs 14 mins ██████████░░░░░░░░░░░░░░░   39.43 %
+Other                     127 hrs 41 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.56 %
+TypeScript                54 hrs 22 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
+PHP                       53 hrs 13 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
+JavaScript                41 hrs 31 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+Twig                      34 hrs 42 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
+Svelte                    27 hrs 32 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+Log                       9 hrs 38 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Python                    8 hrs 37 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 JSON                      7 hrs 27 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-Blade Template            6 hrs 33 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+Blade Template            6 hrs 33 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 textmate                  6 hrs 23 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 Vue.js                    5 hrs 57 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-Bash                      5 hrs 14 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Bash                      5 hrs 14 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 Text                      5 hrs 4 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 YAML                      4 hrs 28 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 .env file                 3 hrs 49 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
