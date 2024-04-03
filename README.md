@@ -23,21 +23,21 @@ In my spare time I've started playing with SvelteKit (it's very, very, nice!).
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2023 - To: 01 April 2024
+From: 13 April 2023 - To: 02 April 2024
 
-Total Time: 931 hrs 20 mins
+Total Time: 933 hrs 50 mins
 
-Meetings                  271 hrs 14 mins ███████▒░░░░░░░░░░░░░░░░░   29.13 %
-Other                     263 hrs 13 mins ███████░░░░░░░░░░░░░░░░░░   28.27 %
-PHP                       67 hrs 9 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
-JavaScript                59 hrs 4 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
-TypeScript                57 hrs 17 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
-Twig                      56 hrs 59 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
-Svelte                    31 hrs 51 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-Vue.js                    15 hrs 19 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+Meetings                  271 hrs 14 mins ███████▒░░░░░░░░░░░░░░░░░   29.05 %
+Other                     265 hrs 43 mins ███████░░░░░░░░░░░░░░░░░░   28.46 %
+PHP                       67 hrs 9 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
+JavaScript                59 hrs 4 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
+TypeScript                57 hrs 17 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
+Twig                      56 hrs 59 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
+Svelte                    31 hrs 51 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+Vue.js                    15 hrs 19 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
 JSON                      15 hrs 11 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-Log                       12 hrs 31 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-Python                    9 hrs 39 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Log                       12 hrs 31 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+Python                    9 hrs 39 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
 YAML                      9 hrs 24 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 Text                      8 hrs 42 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 textmate                  7 hrs 22 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
