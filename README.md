@@ -20,6 +20,8 @@ I'm a hands-on Technical Team Lead at [Dawson Andrews](https://www.dawsonandrews
 
 In my spare time I've started playing with SvelteKit (it's very, very, nice!).
 
+<a href="https://app.daily.dev/h2onock"><img src="https://api.daily.dev/devcards/v2/XQraFlxE3JPWOlcSuOB2K.png?type=default&r=18u" width="356" alt="James's Dev Card"/></a>
+
 <!--START_SECTION:waka-->
 
 ```txt
