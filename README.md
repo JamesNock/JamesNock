@@ -25,20 +25,20 @@ In my spare time I've started playing with SvelteKit (it's very, very, nice!).
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2023 - To: 29 May 2024
+From: 13 April 2023 - To: 30 May 2024
 
-Total Time: 1,112 hrs 33 mins
+Total Time: 1,116 hrs 9 mins
 
-Other                      364 hrs         ████████▒░░░░░░░░░░░░░░░░   32.73 %
-Meetings                   271 hrs 14 mins ██████░░░░░░░░░░░░░░░░░░░   24.38 %
-TypeScript                 89 hrs 56 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
-PHP                        89 hrs 52 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
-JavaScript                 59 hrs 58 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
-Twig                       57 hrs 37 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
-Svelte                     31 hrs 51 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+Other                      365 hrs         ████████▒░░░░░░░░░░░░░░░░   32.71 %
+Meetings                   271 hrs 14 mins ██████░░░░░░░░░░░░░░░░░░░   24.31 %
+TypeScript                 92 hrs 31 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+PHP                        89 hrs 52 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
+JavaScript                 59 hrs 58 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+Twig                       57 hrs 37 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+Svelte                     31 hrs 51 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
 JSON                       18 hrs 49 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-Vue.js                     15 hrs 19 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
-Python                     13 hrs 45 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Vue.js                     15 hrs 19 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Python                     13 hrs 45 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 Log                        13 hrs 43 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 YAML                       12 hrs 10 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
 Text                       9 hrs 17 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
