@@ -25,27 +25,27 @@ In my spare time I've started playing with SvelteKit (it's very, very, nice!).
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2023 - To: 05 June 2024
+From: 13 April 2023 - To: 06 June 2024
 
-Total Time: 1,132 hrs 52 mins
+Total Time: 1,134 hrs 39 mins
 
-Other                      369 hrs 4 mins  ████████░░░░░░░░░░░░░░░░░   32.59 %
-Meetings                   271 hrs 14 mins ██████░░░░░░░░░░░░░░░░░░░   23.95 %
-TypeScript                 102 hrs 3 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
-PHP                        92 hrs 16 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
-JavaScript                 59 hrs 59 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
-Twig                       57 hrs 37 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
+Other                      369 hrs 31 mins ████████░░░░░░░░░░░░░░░░░   32.57 %
+Meetings                   271 hrs 14 mins ██████░░░░░░░░░░░░░░░░░░░   23.91 %
+TypeScript                 102 hrs 58 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
+PHP                        92 hrs 32 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
+JavaScript                 59 hrs 59 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+Twig                       57 hrs 37 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
 Svelte                     31 hrs 51 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
-JSON                       18 hrs 52 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+JSON                       18 hrs 52 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
 Vue.js                     15 hrs 19 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-Log                        13 hrs 46 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+Log                        13 hrs 46 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 Python                     13 hrs 45 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-YAML                       12 hrs 13 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+YAML                       12 hrs 14 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
 Text                       9 hrs 18 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-Blade Template             9 hrs           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Blade Template             9 hrs           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 Markdown                   8 hrs 43 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-Bash                       7 hrs 47 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-textmate                   7 hrs 25 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Bash                       7 hrs 56 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+textmate                   7 hrs 25 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 HTML                       6 hrs 42 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 .env file                  5 hrs 58 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 CSS                        2 hrs 28 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
