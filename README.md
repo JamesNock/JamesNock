@@ -25,22 +25,22 @@ In my spare time I've started playing with SvelteKit (it's very, very, nice!).
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2023 - To: 26 August 2024
+From: 13 April 2023 - To: 27 August 2024
 
-Total Time: 1,361 hrs 14 mins
+Total Time: 1,364 hrs 51 mins
 
-Other                      457 hrs 23 mins ████████▒░░░░░░░░░░░░░░░░   33.61 %
-Meetings                   271 hrs 14 mins █████░░░░░░░░░░░░░░░░░░░░   19.93 %
-PHP                        145 hrs 6 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
-TypeScript                 111 hrs 40 mins ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
-JavaScript                 68 hrs 46 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
-Twig                       61 hrs 43 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
-Svelte                     35 hrs 3 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-Blade Template             30 hrs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+Other                      459 hrs 32 mins ████████▒░░░░░░░░░░░░░░░░   33.68 %
+Meetings                   271 hrs 14 mins █████░░░░░░░░░░░░░░░░░░░░   19.88 %
+PHP                        145 hrs 22 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
+TypeScript                 111 hrs 40 mins ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
+JavaScript                 68 hrs 47 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
+Twig                       61 hrs 43 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+Svelte                     35 hrs 3 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+Blade Template             31 hrs 9 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
 YAML                       27 hrs 49 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-JSON                       23 hrs 38 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+JSON                       23 hrs 39 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
 Vue.js                     16 hrs 47 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-Log                        15 hrs 35 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+Log                        15 hrs 35 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 Python                     13 hrs 59 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
 Markdown                   11 hrs 8 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 Text                       10 hrs 39 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
