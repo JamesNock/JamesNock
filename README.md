@@ -25,21 +25,21 @@ In my spare time I've started playing with SvelteKit (it's very, very, nice!).
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2023 - To: 01 September 2024
+From: 13 April 2023 - To: 02 September 2024
 
-Total Time: 1,380 hrs 45 mins
+Total Time: 1,382 hrs 35 mins
 
-Other                      466 hrs 28 mins ████████▒░░░░░░░░░░░░░░░░   33.79 %
-Meetings                   271 hrs 14 mins █████░░░░░░░░░░░░░░░░░░░░   19.65 %
-PHP                        146 hrs 14 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   10.59 %
-TypeScript                 111 hrs 43 mins ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
+Other                      468 hrs 18 mins ████████▒░░░░░░░░░░░░░░░░   33.88 %
+Meetings                   271 hrs 14 mins █████░░░░░░░░░░░░░░░░░░░░   19.62 %
+PHP                        146 hrs 14 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
+TypeScript                 111 hrs 43 mins ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
 JavaScript                 71 hrs 49 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
-Twig                       62 hrs 12 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
+Twig                       62 hrs 12 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
 Svelte                     36 hrs 12 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
 Blade Template             34 hrs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-YAML                       27 hrs 49 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+YAML                       27 hrs 49 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
 JSON                       23 hrs 42 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
-Vue.js                     16 hrs 47 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+Vue.js                     16 hrs 47 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 Log                        15 hrs 41 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 Python                     13 hrs 59 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 Markdown                   11 hrs 9 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
