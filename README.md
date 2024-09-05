@@ -25,22 +25,22 @@ In my spare time I've started playing with SvelteKit (it's very, very, nice!).
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2023 - To: 03 September 2024
+From: 13 April 2023 - To: 04 September 2024
 
-Total Time: 1,383 hrs 5 mins
+Total Time: 1,384 hrs 35 mins
 
-Other                      468 hrs 48 mins ████████▒░░░░░░░░░░░░░░░░   33.90 %
-Meetings                   271 hrs 14 mins █████░░░░░░░░░░░░░░░░░░░░   19.61 %
-PHP                        146 hrs 14 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
-TypeScript                 111 hrs 43 mins ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
+Other                      470 hrs 18 mins ████████▒░░░░░░░░░░░░░░░░   33.97 %
+Meetings                   271 hrs 14 mins █████░░░░░░░░░░░░░░░░░░░░   19.59 %
+PHP                        146 hrs 14 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
+TypeScript                 111 hrs 43 mins ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
 JavaScript                 71 hrs 49 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
-Twig                       62 hrs 12 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
+Twig                       62 hrs 12 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
 Svelte                     36 hrs 12 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
 Blade Template             34 hrs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
 YAML                       27 hrs 49 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-JSON                       23 hrs 42 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+JSON                       23 hrs 42 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
 Vue.js                     16 hrs 47 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-Log                        15 hrs 41 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Log                        15 hrs 41 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
 Python                     13 hrs 59 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 Markdown                   11 hrs 9 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 Text                       10 hrs 40 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
