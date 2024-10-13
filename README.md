@@ -25,24 +25,24 @@ In my spare time I've started playing with SvelteKit (it's very, very, nice!).
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2023 - To: 11 October 2024
+From: 13 April 2023 - To: 12 October 2024
 
-Total Time: 1,409 hrs 16 mins
+Total Time: 1,409 hrs 45 mins
 
-Other                      472 hrs 48 mins ████████▒░░░░░░░░░░░░░░░░   33.56 %
-Meetings                   271 hrs 14 mins ████▓░░░░░░░░░░░░░░░░░░░░   19.25 %
-PHP                        158 hrs 14 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
-TypeScript                 111 hrs 50 mins ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
+Other                      472 hrs 48 mins ████████▒░░░░░░░░░░░░░░░░   33.54 %
+Meetings                   271 hrs 14 mins ████▓░░░░░░░░░░░░░░░░░░░░   19.24 %
+PHP                        158 hrs 33 mins ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 %
+TypeScript                 111 hrs 50 mins ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
 JavaScript                 71 hrs 50 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
 Twig                       62 hrs 12 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
 Svelte                     36 hrs 23 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-Blade Template             34 hrs 40 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+Blade Template             34 hrs 44 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
 YAML                       29 hrs 57 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
 JSON                       23 hrs 57 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
 Vue.js                     18 hrs 28 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 Log                        16 hrs 12 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
 Python                     13 hrs 59 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-Markdown                   11 hrs 29 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Markdown                   11 hrs 35 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 Text                       11 hrs 28 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 Bash                       10 hrs 32 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 .env file                  7 hrs 56 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
