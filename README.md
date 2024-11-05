@@ -25,23 +25,23 @@ In my spare time I've started playing with SvelteKit (it's very, very, nice!).
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2023 - To: 03 November 2024
+From: 13 April 2023 - To: 04 November 2024
 
-Total Time: 1,435 hrs 12 mins
+Total Time: 1,435 hrs 45 mins
 
-Other                      472 hrs 48 mins ████████▒░░░░░░░░░░░░░░░░   32.95 %
-Meetings                   271 hrs 14 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.90 %
-PHP                        166 hrs 48 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
-TypeScript                 111 hrs 51 mins ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
+Other                      472 hrs 48 mins ████████▒░░░░░░░░░░░░░░░░   32.94 %
+Meetings                   271 hrs 14 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.89 %
+PHP                        166 hrs 54 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
+TypeScript                 111 hrs 51 mins ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
 JavaScript                 73 hrs 38 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
-Twig                       62 hrs 12 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
-Blade Template             40 hrs 51 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+Twig                       62 hrs 12 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+Blade Template             41 hrs 15 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
 Svelte                     36 hrs 23 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
 YAML                       30 hrs 22 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-JSON                       24 hrs 28 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+JSON                       24 hrs 29 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
 Vue.js                     19 hrs 20 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 Python                     17 hrs 34 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-Log                        16 hrs 26 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+Log                        16 hrs 26 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 Markdown                   11 hrs 52 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 Text                       11 hrs 46 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 Bash                       10 hrs 39 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
