@@ -25,32 +25,32 @@ In my spare time I've started playing with SvelteKit (it's very, very, nice!).
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2023 - To: 12 December 2024
+From: 13 April 2023 - To: 13 December 2024
 
-Total Time: 1,241 hrs 2 mins
+Total Time: 1,241 hrs 28 mins
 
-Other                      499 hrs 32 mins ██████████░░░░░░░░░░░░░░░   40.25 %
-PHP                        180 hrs 9 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.52 %
+Other                      499 hrs 32 mins ██████████░░░░░░░░░░░░░░░   40.24 %
+PHP                        180 hrs 17 mins ███▓░░░░░░░░░░░░░░░░░░░░░   14.52 %
 TypeScript                 111 hrs 58 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
-JavaScript                 74 hrs 23 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
+JavaScript                 74 hrs 25 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
 Twig                       62 hrs 12 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
 Blade Template             46 hrs 22 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
 Svelte                     36 hrs 23 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
 YAML                       31 hrs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-Meetings                   27 hrs 7 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-JSON                       24 hrs 39 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+Meetings                   27 hrs 7 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+JSON                       24 hrs 40 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
 Vue.js                     19 hrs 24 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
 Python                     17 hrs 45 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-Log                        16 hrs 56 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Log                        16 hrs 59 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 Markdown                   12 hrs 17 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 Text                       11 hrs 55 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-Bash                       10 hrs 56 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Bash                       11 hrs 4 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 textmate                   9 hrs 36 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-.env file                  8 hrs 56 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+.env file                  8 hrs 57 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 HTML                       7 hrs 52 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 CSS                        4 hrs 28 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 SCSS                       3 hrs 17 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-XML                        2 hrs 44 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+XML                        2 hrs 46 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 Docker                     2 hrs 20 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 INI                        2 hrs 5 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 Shell Script               1 hr 57 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
