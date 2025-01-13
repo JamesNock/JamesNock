@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-At heart I'm a full-stack LAMP SaaS engineer who has been building software for the best part of two decades.
+At heart I'm a full-stack LAMP SaaS engineer who's been building software for the best part of two decades.
 
-These days, I'm a Software Engineering Manager at [Tillo]([https://www.tillo.io/]) working predominantly with the API Team to deliver best in class API's for our customers. In addition to back-end API's, I also work with the UX/UI Team.
+These days, I'm a Software Engineering Manager at [Tillo](https://www.tillo.io/) working predominantly with the API Team to deliver best in class API's for our customers. In addition to back-end API's, I also work with the UX/UI Team.
 
-In my spare time I still like to write code and make things. My latest project that I'm hacking on is [Look for a Book]([https://www.lookforabook.co.uk/]) which I've put together for no other reason than because I think it's a nice thing to do.
+In my spare time I still like to write code and make things. My latest project that I'm hacking on is [Look for a Book](https://www.lookforabook.co.uk/) which I've put together for no other reason than because I think it's a nice thing to do.
 
 Laravel is very-much my 'goto' but I've also recently built a few things with SvelteKit which is very, very, nice!.
 
