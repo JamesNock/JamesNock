@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-At heart I'm a full-stack LAMP developer who has been writing OO PHP code for well over a decade. However, I am using JavaScript and/or JS frameworks every day too.
+At heart I'm a full-stack LAMP SaaS engineer who has been building software for the best part of two decades.
 
-I'm a hands-on Technical Team Lead at [Dawson Andrews](https://www.dawsonandrews.com/) working predominantly with JavaScript, React and CraftCMS, with a sprinkling of Vue, and Alpine. Tailwind is my go-to for CSS nowadays (I've been converted, aaaaaaargh!).
+These days, I'm a Software Engineering Manager at [Tillo]([https://www.tillo.io/]) working predominantly with the API Team to deliver best in class API's for our customers. In addition to back-end API's, I also work with the UX/UI Team.
 
-In my spare time I've started playing with SvelteKit (it's very, very, nice!).
+In my spare time I still like to write code and make things. My latest project that I'm hacking on is [Look for a Book]([https://www.lookforabook.co.uk/]) which I've put together for no other reason than because I think it's a nice thing to do.
+
+Laravel is very-much my 'goto' but I've also recently built a few things with SvelteKit which is very, very, nice!.
 
 <a href="https://app.daily.dev/h2onock"><img src="https://api.daily.dev/devcards/v2/XQraFlxE3JPWOlcSuOB2K.png?type=default&r=18u" width="356" alt="James's Dev Card"/></a>
 
