@@ -25,7 +25,7 @@ In my spare time I've started playing with SvelteKit (it's very, very, nice!).
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2023 - To: 11 January 2025
+From: 13 April 2023 - To: 12 January 2025
 
 Total Time: 1,242 hrs 48 mins
 
