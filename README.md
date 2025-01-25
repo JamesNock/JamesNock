@@ -27,12 +27,12 @@ Laravel is very-much my 'goto' but I've also recently built a few things with Sv
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2023 - To: 23 January 2025
+From: 13 April 2023 - To: 24 January 2025
 
-Total Time: 1,243 hrs 7 mins
+Total Time: 1,243 hrs 8 mins
 
 Other                      499 hrs 32 mins ██████████░░░░░░░░░░░░░░░   40.18 %
-PHP                        180 hrs 37 mins ███▓░░░░░░░░░░░░░░░░░░░░░   14.53 %
+PHP                        180 hrs 38 mins ███▓░░░░░░░░░░░░░░░░░░░░░   14.53 %
 TypeScript                 112 hrs         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
 JavaScript                 74 hrs 30 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
 Twig                       62 hrs 12 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
