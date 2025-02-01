@@ -20,7 +20,7 @@ These days, I'm a Software Engineering Manager at [Tillo](https://www.tillo.io/)
 
 In my spare time I still like to write code and make things. My latest project that I'm hacking on is [Look for a Book](https://www.lookforabook.co.uk/) which I've put together for no other reason than because I think it's a nice thing to do.
 
-Laravel is very-much my 'goto' but I've also recently built a few things with SvelteKit which is very, very, nice!.
+I spent the first decade of my career working with bespoke PHP (along with vanilla JS and jQuery) before settling on Laravel as my go-to framework. But I’m not just a PHP guy — I love working with JavaScript too, from vanilla to Vue, React, Svelte, and more. When it comes to CMS platforms, CraftCMS still holds a special place in my heart.
 
 <a href="https://app.daily.dev/h2onock"><img src="https://api.daily.dev/devcards/v2/XQraFlxE3JPWOlcSuOB2K.png?type=default&r=18u" width="356" alt="James's Dev Card"/></a>
 
