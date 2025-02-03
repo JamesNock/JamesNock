@@ -27,23 +27,23 @@ I spent the first decade of my career working with bespoke PHP (along with vanil
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2023 - To: 01 February 2025
+From: 13 April 2023 - To: 02 February 2025
 
-Total Time: 1,249 hrs 54 mins
+Total Time: 1,251 hrs 16 mins
 
-Other                      499 hrs 32 mins ██████████░░░░░░░░░░░░░░░   39.97 %
-PHP                        186 hrs 31 mins ███▓░░░░░░░░░░░░░░░░░░░░░   14.92 %
-TypeScript                 112 hrs         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
-JavaScript                 74 hrs 54 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
-Twig                       62 hrs 12 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
-Blade Template             46 hrs 34 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+Other                      499 hrs 32 mins ██████████░░░░░░░░░░░░░░░   39.92 %
+PHP                        187 hrs 43 mins ███▓░░░░░░░░░░░░░░░░░░░░░   15.00 %
+TypeScript                 112 hrs         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
+JavaScript                 75 hrs 1 min    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
+Twig                       62 hrs 12 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
+Blade Template             46 hrs 34 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
 Svelte                     36 hrs 23 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
 YAML                       31 hrs 5 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
 Meetings                   27 hrs 7 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
 JSON                       25 hrs 14 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
 Vue.js                     19 hrs 28 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
 Python                     17 hrs 45 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-Log                        17 hrs 8 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Log                        17 hrs 9 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 Markdown                   12 hrs 20 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 Text                       12 hrs 12 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 Bash                       11 hrs 5 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
