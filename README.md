@@ -27,21 +27,21 @@ I spent the first decade of my career working with bespoke PHP (along with vanil
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2023 - To: 16 February 2025
+From: 13 April 2023 - To: 17 February 2025
 
-Total Time: 1,259 hrs 45 mins
+Total Time: 1,261 hrs 14 mins
 
-Other                      499 hrs 32 mins ██████████░░░░░░░░░░░░░░░   39.65 %
-PHP                        194 hrs 19 mins ████░░░░░░░░░░░░░░░░░░░░░   15.43 %
-TypeScript                 112 hrs         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
-JavaScript                 75 hrs 5 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
-Twig                       62 hrs 12 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
-Blade Template             46 hrs 47 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+Other                      499 hrs 32 mins ██████████░░░░░░░░░░░░░░░   39.61 %
+PHP                        195 hrs 7 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.47 %
+TypeScript                 112 hrs         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
+JavaScript                 75 hrs 5 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+Twig                       62 hrs 12 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
+Blade Template             47 hrs 26 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
 Svelte                     36 hrs 23 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
 YAML                       31 hrs 47 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
 Meetings                   27 hrs 7 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-JSON                       25 hrs 15 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-Vue.js                     19 hrs 29 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+JSON                       25 hrs 17 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Vue.js                     19 hrs 29 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 Python                     17 hrs 45 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 Log                        17 hrs 11 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 Text                       12 hrs 27 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
