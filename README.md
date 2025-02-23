@@ -27,23 +27,23 @@ I spent the first decade of my career working with bespoke PHP (along with vanil
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2023 - To: 21 February 2025
+From: 13 April 2023 - To: 22 February 2025
 
-Total Time: 1,268 hrs 2 mins
+Total Time: 1,270 hrs 40 mins
 
-Other                      499 hrs 32 mins ██████████░░░░░░░░░░░░░░░   39.40 %
-PHP                        199 hrs 46 mins ████░░░░░░░░░░░░░░░░░░░░░   15.75 %
-TypeScript                 112 hrs         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
-JavaScript                 75 hrs 47 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
-Twig                       62 hrs 12 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
-Blade Template             48 hrs 37 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-Svelte                     36 hrs 23 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-YAML                       31 hrs 47 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
-Meetings                   27 hrs 7 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+Other                      499 hrs 32 mins █████████▓░░░░░░░░░░░░░░░   39.31 %
+PHP                        201 hrs 33 mins ████░░░░░░░░░░░░░░░░░░░░░   15.86 %
+TypeScript                 112 hrs         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
+JavaScript                 75 hrs 49 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
+Twig                       62 hrs 12 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+Blade Template             49 hrs 25 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+Svelte                     36 hrs 23 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+YAML                       31 hrs 47 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+Meetings                   27 hrs 7 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
 JSON                       25 hrs 31 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-Vue.js                     19 hrs 29 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+Vue.js                     19 hrs 29 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
 Python                     17 hrs 45 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-Log                        17 hrs 11 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+Log                        17 hrs 12 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 Text                       12 hrs 27 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 Markdown                   12 hrs 20 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 Bash                       11 hrs 18 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
