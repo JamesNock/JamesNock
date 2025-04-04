@@ -27,7 +27,7 @@ I spent the first decade of my career working with bespoke PHP (along with vanil
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2023 - To: 02 April 2025
+From: 13 April 2023 - To: 03 April 2025
 
 Total Time: 1,279 hrs 7 mins
 
