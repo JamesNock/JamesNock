@@ -27,25 +27,25 @@ I spent the first decade of my career working with bespoke PHP (along with vanil
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2023 - To: 30 April 2025
+From: 13 April 2023 - To: 01 May 2025
 
-Total Time: 1,294 hrs 6 mins
+Total Time: 1,294 hrs 22 mins
 
-Other                      499 hrs 32 mins █████████▓░░░░░░░░░░░░░░░   38.60 %
+Other                      499 hrs 32 mins █████████▓░░░░░░░░░░░░░░░   38.59 %
 PHP                        209 hrs 50 mins ████░░░░░░░░░░░░░░░░░░░░░   16.21 %
-TypeScript                 113 hrs 19 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
+TypeScript                 113 hrs 25 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
 JavaScript                 76 hrs 51 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
 Twig                       62 hrs 12 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
 Blade Template             50 hrs 53 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
 Svelte                     38 hrs 51 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
 YAML                       35 hrs 9 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-JSON                       27 hrs 37 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+JSON                       27 hrs 38 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
 Meetings                   27 hrs 7 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
-Vue.js                     20 hrs 27 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Vue.js                     20 hrs 29 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 Python                     17 hrs 45 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 Log                        17 hrs 13 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-Text                       12 hrs 44 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-Markdown                   12 hrs 42 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Markdown                   12 hrs 50 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Text                       12 hrs 44 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 Bash                       11 hrs 23 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 textmate                   9 hrs 38 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 .env file                  9 hrs 27 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
