@@ -27,36 +27,36 @@ I spent the first decade of my career working with bespoke PHP (along with vanil
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2023 - To: 19 May 2025
+From: 13 April 2023 - To: 20 May 2025
 
-Total Time: 1,321 hrs
+Total Time: 1,324 hrs 53 mins
 
-Other                      499 hrs 32 mins █████████▒░░░░░░░░░░░░░░░   37.82 %
-PHP                        217 hrs 25 mins ████░░░░░░░░░░░░░░░░░░░░░   16.46 %
-TypeScript                 117 hrs 38 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
-JavaScript                 77 hrs 4 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
-Twig                       62 hrs 12 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
-Blade Template             53 hrs 27 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
-Svelte                     38 hrs 51 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+Other                      499 hrs 32 mins █████████▒░░░░░░░░░░░░░░░   37.70 %
+PHP                        217 hrs 28 mins ████░░░░░░░░░░░░░░░░░░░░░   16.42 %
+TypeScript                 120 hrs 12 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 %
+JavaScript                 77 hrs 4 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+Twig                       62 hrs 12 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+Blade Template             53 hrs 27 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+Svelte                     38 hrs 51 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
 YAML                       35 hrs 10 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
-Vue.js                     29 hrs 58 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-JSON                       28 hrs 20 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+Vue.js                     31 hrs 14 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+JSON                       28 hrs 21 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
 Meetings                   27 hrs 7 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
 Python                     17 hrs 45 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
 Log                        17 hrs 13 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 Markdown                   12 hrs 50 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-Text                       12 hrs 45 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Text                       12 hrs 45 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 Bash                       12 hrs 11 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 textmate                   9 hrs 38 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 .env file                  9 hrs 36 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 HTML                       8 hrs 3 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-CSS                        4 hrs 49 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+CSS                        4 hrs 49 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 SCSS                       3 hrs 17 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 XML                        2 hrs 55 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 Docker                     2 hrs 20 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 INI                        2 hrs 6 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 Shell Script               2 hrs 2 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-GitIgnore file             1 hr 54 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+GitIgnore file             1 hr 54 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 PostCSS                    1 hr 40 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 Java                       1 hr 21 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 Apache Config              1 hr 18 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
