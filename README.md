@@ -27,26 +27,26 @@ I spent the first decade of my career working with bespoke PHP (along with vanil
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2023 - To: 08 June 2025
+From: 13 April 2023 - To: 09 June 2025
 
-Total Time: 1,333 hrs 45 mins
+Total Time: 1,334 hrs 20 mins
 
-Other                      499 hrs 32 mins █████████▒░░░░░░░░░░░░░░░   37.45 %
-PHP                        220 hrs 36 mins ████░░░░░░░░░░░░░░░░░░░░░   16.54 %
-TypeScript                 122 hrs 48 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
+Other                      499 hrs 32 mins █████████▒░░░░░░░░░░░░░░░   37.44 %
+PHP                        220 hrs 36 mins ████░░░░░░░░░░░░░░░░░░░░░   16.53 %
+TypeScript                 123 hrs 18 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
 JavaScript                 77 hrs 4 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
 Twig                       62 hrs 12 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
 Blade Template             53 hrs 27 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
 Svelte                     38 hrs 51 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
 YAML                       35 hrs 11 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
 Vue.js                     34 hrs 15 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
-JSON                       28 hrs 21 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+JSON                       28 hrs 22 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
 Meetings                   27 hrs 7 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
 Python                     17 hrs 45 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
 Log                        17 hrs 13 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
 Markdown                   12 hrs 50 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 Text                       12 hrs 50 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-Bash                       12 hrs 11 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Bash                       12 hrs 13 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 textmate                   9 hrs 38 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 .env file                  9 hrs 36 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 HTML                       8 hrs 3 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
