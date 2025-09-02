@@ -27,12 +27,12 @@ I spent the first decade of my career working with bespoke PHP (along with vanil
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2023 - To: 31 August 2025
+From: 13 April 2023 - To: 01 September 2025
 
-Total Time: 1,363 hrs 52 mins
+Total Time: 1,363 hrs 56 mins
 
 Other                      499 hrs 32 mins █████████░░░░░░░░░░░░░░░░   36.63 %
-PHP                        230 hrs 14 mins ████▒░░░░░░░░░░░░░░░░░░░░   16.88 %
+PHP                        230 hrs 17 mins ████▒░░░░░░░░░░░░░░░░░░░░   16.88 %
 TypeScript                 128 hrs 3 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
 JavaScript                 79 hrs 5 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
 Twig                       62 hrs 25 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
