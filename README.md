@@ -27,24 +27,24 @@ I spent the first decade of my career working with bespoke PHP (along with vanil
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2023 - To: 07 October 2025
+From: 13 April 2023 - To: 08 October 2025
 
-Total Time: 1,378 hrs 13 mins
+Total Time: 1,378 hrs 25 mins
 
-Other                      499 hrs 32 mins █████████░░░░░░░░░░░░░░░░   36.25 %
-PHP                        234 hrs 38 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.02 %
+Other                      499 hrs 32 mins █████████░░░░░░░░░░░░░░░░   36.24 %
+PHP                        234 hrs 44 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.03 %
 TypeScript                 130 hrs 55 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
 JavaScript                 79 hrs 29 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
 Twig                       62 hrs 25 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
 Blade Template             53 hrs 27 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
 Svelte                     42 hrs 24 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
 Vue.js                     39 hrs 53 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
-YAML                       35 hrs 51 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
-JSON                       29 hrs 55 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+YAML                       35 hrs 52 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+JSON                       29 hrs 56 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
 Meetings                   27 hrs 7 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
 Python                     17 hrs 45 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
 Log                        17 hrs 13 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-Markdown                   16 hrs 45 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+Markdown                   16 hrs 50 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 Text                       13 hrs 34 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 Bash                       12 hrs 32 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 .env file                  10 hrs 17 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
