@@ -27,29 +27,29 @@ I spent the first decade of my career working with bespoke PHP (along with vanil
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2023 - To: 23 October 2025
+From: 13 April 2023 - To: 24 October 2025
 
-Total Time: 1,386 hrs 34 mins
+Total Time: 1,387 hrs 1 min
 
-Other                      499 hrs 32 mins █████████░░░░░░░░░░░░░░░░   36.03 %
-PHP                        238 hrs 20 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.19 %
+Other                      499 hrs 32 mins █████████░░░░░░░░░░░░░░░░   36.02 %
+PHP                        238 hrs 29 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.19 %
 TypeScript                 131 hrs         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
 JavaScript                 79 hrs 41 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
 Twig                       62 hrs 25 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
 Blade Template             55 hrs 36 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
 Svelte                     42 hrs 40 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
 Vue.js                     39 hrs 55 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-YAML                       35 hrs 59 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
-JSON                       30 hrs 11 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+YAML                       36 hrs 6 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+JSON                       30 hrs 14 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
 Meetings                   27 hrs 7 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
 Python                     17 hrs 45 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
 Markdown                   17 hrs 39 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 Log                        17 hrs 15 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 Text                       13 hrs 40 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-Bash                       12 hrs 41 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Bash                       12 hrs 44 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 .env file                  10 hrs 30 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 textmate                   9 hrs 38 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-HTML                       8 hrs 36 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+HTML                       8 hrs 40 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 CSS                        4 hrs 59 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 SCSS                       3 hrs 17 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 XML                        3 hrs           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
