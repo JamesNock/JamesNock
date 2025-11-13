@@ -27,29 +27,29 @@ I spent the first decade of my career working with bespoke PHP (along with vanil
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2023 - To: 11 November 2025
+From: 13 April 2023 - To: 12 November 2025
 
-Total Time: 1,388 hrs 13 mins
+Total Time: 1,388 hrs 29 mins
 
 Other                      499 hrs 32 mins █████████░░░░░░░░░░░░░░░░   35.98 %
-PHP                        239 hrs 16 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.24 %
+PHP                        239 hrs 20 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.24 %
 TypeScript                 131 hrs         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 %
 JavaScript                 79 hrs 41 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
 Twig                       62 hrs 25 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
-Blade Template             55 hrs 36 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+Blade Template             55 hrs 36 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
 Svelte                     42 hrs 40 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
 Vue.js                     39 hrs 55 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
 YAML                       36 hrs 6 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
 JSON                       30 hrs 15 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
 Meetings                   27 hrs 7 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
-Markdown                   17 hrs 57 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Markdown                   18 hrs 8 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 Python                     17 hrs 45 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
 Log                        17 hrs 15 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 Text                       13 hrs 40 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 Bash                       12 hrs 45 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-.env file                  10 hrs 34 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+.env file                  10 hrs 35 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 textmate                   9 hrs 38 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-HTML                       8 hrs 40 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+HTML                       8 hrs 40 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 CSS                        4 hrs 59 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 SCSS                       3 hrs 17 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 XML                        3 hrs           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
