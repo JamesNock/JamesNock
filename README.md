@@ -27,16 +27,16 @@ I spent the first decade of my career working with bespoke PHP (along with vanil
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2023 - To: 24 February 2026
+From: 13 April 2023 - To: 25 February 2026
 
-Total Time: 1,644 hrs 41 mins
+Total Time: 1,644 hrs 44 mins
 
 Other                      708 hrs 2 mins        ██████████▓░░░░░░░░░░░░░░   43.05 %
 PHP                        245 hrs 50 mins       ███▓░░░░░░░░░░░░░░░░░░░░░   14.95 %
 TypeScript                 132 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
 JavaScript                 80 hrs 15 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
 Twig                       62 hrs 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
-Blade Template             59 hrs 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+Blade Template             59 hrs 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
 Svelte                     43 hrs 8 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
 Vue.js                     42 hrs 6 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
 Meetings                   41 hrs 7 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
