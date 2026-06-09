@@ -27,27 +27,27 @@ I spent the first decade of my career working with bespoke PHP (along with vanil
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2023 - To: 07 June 2026
+From: 13 April 2023 - To: 08 June 2026
 
-Total Time: 1,786 hrs 23 mins
+Total Time: 1,786 hrs 38 mins
 
-Other                      708 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   39.64 %
-PHP                        259 hrs 12 mins       ███▓░░░░░░░░░░░░░░░░░░░░░   14.51 %
-TypeScript                 163 hrs 13 mins       ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
-JavaScript                 84 hrs 13 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
+Other                      708 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   39.63 %
+PHP                        259 hrs 15 mins       ███▓░░░░░░░░░░░░░░░░░░░░░   14.51 %
+TypeScript                 163 hrs 14 mins       ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
+JavaScript                 84 hrs 13 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
 Twig                       62 hrs 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
 Svelte                     61 hrs 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
 Blade Template             60 hrs 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
-YAML                       52 hrs 53 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+YAML                       52 hrs 56 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
 Vue.js                     42 hrs 7 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-JSON                       41 hrs 52 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+JSON                       41 hrs 53 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
 Meetings                   41 hrs 7 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
 Markdown                   33 hrs 48 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
 Python                     19 hrs 41 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 Text                       18 hrs 56 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
 Log                        17 hrs 55 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-Bash                       16 hrs 52 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-.env file                  16 hrs 14 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Bash                       16 hrs 53 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+.env file                  16 hrs 18 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 textmate                   11 hrs 11 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 Meetings/Research/Other    10 hrs 36 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 HTML                       10 hrs 8 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
