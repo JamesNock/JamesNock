@@ -27,12 +27,12 @@ I spent the first decade of my career working with bespoke PHP (along with vanil
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2023 - To: 09 August 2026
+From: 13 April 2023 - To: 10 August 2026
 
-Total Time: 1,865 hrs 12 mins
+Total Time: 1,865 hrs 15 mins
 
 Other                      708 hrs 2 mins        █████████▒░░░░░░░░░░░░░░░   37.96 %
-PHP                        264 hrs 33 mins       ███▓░░░░░░░░░░░░░░░░░░░░░   14.18 %
+PHP                        264 hrs 34 mins       ███▓░░░░░░░░░░░░░░░░░░░░░   14.18 %
 TypeScript                 180 hrs 45 mins       ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
 JavaScript                 88 hrs 21 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
 Svelte                     64 hrs 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
@@ -58,7 +58,7 @@ GitIgnore file             3 hrs 42 mins         ░░░░░░░░░░�
 XML                        3 hrs 42 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 Astro                      3 hrs 37 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 SQL                        2 hrs 38 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-Docker                     2 hrs 25 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Docker                     2 hrs 26 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 INI                        2 hrs 20 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 Shell Script               2 hrs 19 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
