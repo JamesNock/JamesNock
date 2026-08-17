@@ -2,9 +2,9 @@ name: Wakatime Stats Readme update
 
 on:
   workflow_dispatch:
-  schedule:
+  #schedule:
     # Runs every 2 hours
-    - cron: "0 */2 * * *"
+    #- cron: "0 */2 * * *"
 
 jobs:
   update-readme:
