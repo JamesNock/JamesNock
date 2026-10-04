@@ -14,12 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-At heart I'm a full-stack LAMP SaaS engineer who's been building software for the best part of two decades.
+I'm a software engineer and engineering leader with nearly two decades of experience building SaaS products, APIs, platforms, and the teams behind them.
 
-These days, I'm a Senior Software Engineering Manager at [Tillo](https://www.tillo.io/) working with the API Team to deliver best in class API's for our customers as well as with the UX/UI Team on our next-gen products.
+These days I’m a Senior Software Engineering Manager at [Tillo](https://www.tillo.io/), working across API and product engineering teams to build reliable, scalable systems and great developer and customer experiences.
 
-In my spare time I still like to write code and make things. My latest project that I'm hacking on is [Look for a Book](https://www.lookforabook.co.uk/) which I've put together for no other reason than because I think it's a nice thing to do.
+I started my career deep in the LAMP stack, building bespoke PHP applications with JavaScript and jQuery, before Laravel became my framework of choice. Since then, my world has expanded considerably: APIs, distributed systems, event-driven architecture, cloud infrastructure, and modern frontend development with Vue, React, Svelte and Nuxt.
 
-I spent the first decade of my career working with bespoke PHP (along with vanilla JS and jQuery) before settling on Laravel as my go-to framework. But I'm not just a PHP guy, I love working with JavaScript too, from vanilla to Vue, React, Svelte, and more. When it comes to CMS platforms, CraftCMS still holds a special place in my heart.
+I still love writing code.
+
+Outside of the day job, I’m usually building something, experimenting with a new technology, or exploring better ways to design and ship software. PHP and Laravel remain firm favourites, JavaScript and TypeScript are never far away, and Craft CMS still holds a special place in my heart.
+
+These days I’m particularly interested in scalable systems, developer experience, engineering effectiveness, and [how AI is changing the way software teams build products](https://jnock.com/).
 
 <a href="https://app.daily.dev/h2onock"><img src="https://api.daily.dev/devcards/v2/XQraFlxE3JPWOlcSuOB2K.png?type=default&r=18u" width="356" alt="James's Dev Card"/></a>
+
+
