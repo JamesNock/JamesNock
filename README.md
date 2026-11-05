@@ -20,7 +20,7 @@ These days I’m a Senior Software Engineering Manager at [Tillo](https://www.ti
 
 I started my career deep in the LAMP stack, building bespoke PHP applications with JavaScript and jQuery, before Laravel became my framework of choice. Since then, my world has expanded considerably: APIs, distributed systems, event-driven architecture, cloud infrastructure, and modern frontend development with Vue, React, Svelte and Nuxt.
 
-I still love writing code.
+I still love building products.
 
 Outside of the day job, I’m usually building something, experimenting with a new technology, or exploring better ways to design and ship software. PHP and Laravel remain firm favourites, JavaScript and TypeScript are never far away, and Craft CMS still holds a special place in my heart.
 
